@@ -29,6 +29,36 @@ const products = [
       image: 'https://media.istockphoto.com/id/1065169946/photo/big-pizza-with-cheese-tomatoes-black-olives-and-paprika-on-a-round-cutting-board-on-a-dark.jpg?s=1024x1024&w=is&k=20&c=cWvBoPYlwSE6UAP6I8peTCLtQZsoGJe9QaH9QhcSBsQ=',
       price: 13.99,
     },
+    {
+      id: 6,
+      name: 'BBQ Chicken Feast',
+      image: 'https://images.ctfassets.net/j8tkpy1gjhi5/75eBXSPUMgq9ord7C7omoE/01cacc986a63579c0cb772ab9eeb8485/Salami-pizza-grid.jpg?w=768&fm=webp&q=80',
+      price: 15.49,
+    },
+    {
+      id: 7,
+      name: 'Spicy Italian',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdupbk2tTFf6o4YDWtQT2TXehFKno1Q68CE3S3ZjsmYQ6CEqZNjX0qsZvIUQJ0ewZYmk&usqp=CAU',
+      price: 14.49,
+    },
+    {
+      id: 8,
+      name: 'Four Cheese Supreme',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI7tHDb4idP0GDlXc-X4-nc6rIRaz_8-NUp85xq8d__EuFGHno7KAJp2xgjOTAarldFIQ&usqp=CAU',
+      price: 13.49,
+    },
+    {
+      id: 9,
+      name: 'Margherita',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyM_slDysi4wdGfE1-fwshBVmJjYuND1K_U4Q1jgUv8Tb2pLaEfjPwbve8vUaPdL8arWc&usqp=CAU',
+      price: 11.99,
+    },
+    {
+      id: 10,
+      name: 'Buffalo Chicken',
+      image: 'https://www.recipetineats.com/tachyon/2023/05/Garlic-cheese-pizza_9.jpg?resize=900%2C1125&zoom=0.5',
+      price: 16.49,
+    },
   ];
-  
+
 export default products;
